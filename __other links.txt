@@ -1,3 +1,0 @@
-https://www.dataschool.io/python-quick-reference/
-https://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html
-https://programmingwithmosh.com/python/python-3-cheat-sheet/
