@@ -1,0 +1,55 @@
+Hadoop Deployment Cheat Sheet :
+https://jethro.io/hadoop-deployment-cheat-sheet
+
+Haddop HDFS :
+http://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf
+
+Hive :
+http://hortonworks.com/wp-content/uploads/2016/05/Hortonworks.CheatSheet.SQLtoHive.pdf
+
+Pig :
+http://www.qubole.com/wp-content/uploads/2014/01/Pig-Cheat-Sheet.pdf
+
+Drill :
+http://www.openkb.info/2014/11/drill-commands-cheetsheet.html
+
+Flum (twitter tutorial):
+https://www.edureka.co/blog/apache-flume-tutorial/
+
+Sqoop :
+https://nijanthanravi.wordpress.com/2017/11/14/sqoop-cheat-sheet/
+
+Mahout :
+https://www.tutorialspoint.com/mahout/mahout_quick_guide.htm
+
+Spark :
+
+PySpark RDDS:
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf
+
+PySpark DataFrames:
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf
+
+Scala :
+http://ampcamp.berkeley.edu/wp-content/uploads/2013/02/Parallel-Programming-With-Spark-Matei-Zaharia-Strata-2013.pdf
+
+Ambari :
+https://docs.daplab.ch/ambari_cheat_sheet/
+
+Zookeeper :
+http://www.corejavaguru.com/bigdata/zookeeper/cli
+
+OOzie :
+http://www.openkb.info/2014/11/oozie-cheat-sheet.html
+
+Kafka :
+https://github.com/Landoop/kafka-cheat-sheet
+
+Hbase :
+https://www.cheatography.com//wangjl1900/cheat-sheets/hbase-cheatsheet/pdf/
+
+Cassandra :
+https://www.cheatography.com/edendekker/cheat-sheets/apache-cassandra-cql/pdf/
+
+MangoDb :
+https://www.scribd.com/document/218815614/Mongo-Shell-Cheat-Sheet
